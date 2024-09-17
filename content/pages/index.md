@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Cloud Software Engineer & Machine Learning Enthusiast
+      text: Software Engineer
       color: text-dark
       type: TitleBlock
     subtitle: Leveraging Cloud Solutions and AI to Drive Innovation and Efficiency
