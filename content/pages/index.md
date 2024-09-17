@@ -15,15 +15,6 @@ sections:
       Rheem Manufacturing and advanced AI research at AI4CE Lab, NYU.
 
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
