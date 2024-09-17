@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Software Engineer
+      text: Adith Santosh
       color: text-dark
       type: TitleBlock
     subtitle: Leveraging Cloud Solutions and AI to Drive Innovation and Efficiency
