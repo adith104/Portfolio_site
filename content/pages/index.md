@@ -7,7 +7,7 @@ sections:
       text: 'Hello, I''m Adith'
       color: text-dark
       type: TitleBlock
-    subtitle: Leveraging Cloud Solutions and AI to Drive Innovation and Efficiency
+    subtitle: Software Engineer | Cloud Solutions & Machine Learning Specialist
     text: >+
 
       I am a seasoned software engineer with a strong focus on cloud
