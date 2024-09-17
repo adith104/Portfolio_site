@@ -143,7 +143,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Experiences
       color: text-primary
       styles:
         self:
