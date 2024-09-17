@@ -10,9 +10,14 @@ sections:
     subtitle: Leveraging Cloud Solutions and AI to Drive Innovation and Efficiency
     text: >+
 
-      Experienced software engineer specializing in cloud architecture and
-      machine learning solutions. Developed scalable data-driven applications at
-      Rheem Manufacturing and advanced AI research at AI4CE Lab, NYU.
+      I am a seasoned software engineer with a strong focus on cloud
+      architecture and machine learning. At Rheem Manufacturing, I developed
+      scalable data-driven applications, optimizing IoT data processing and
+      creating advanced analytics dashboards. My work at AI4CE Lab, NYU,
+      involves cutting-edge AI research, where I leverage deep learning
+      frameworks like TensorFlow and PyTorch to solve complex problems. With a
+      passion for combining software engineering principles with AI, I aim to
+      deliver innovative solutions that drive business growth and efficiency.
 
     actions:
       - label: See Tutorials
