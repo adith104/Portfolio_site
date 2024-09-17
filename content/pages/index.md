@@ -20,7 +20,7 @@ sections:
       deliver innovative solutions that drive business growth and efficiency.
 
     actions:
-      - label: See Tutorials
+      - label: Linkedin
         altText: ''
         url: /
         showIcon: true
