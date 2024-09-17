@@ -22,7 +22,7 @@ sections:
     actions:
       - label: Linkedin
         altText: ''
-        url: /www.linkedin.com/in/adith-santosh-0b141a300
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
