@@ -55,7 +55,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefit
+      text: Professional Highlights
       color: text-dark
       styles:
         self:
