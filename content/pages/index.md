@@ -4,27 +4,25 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Hello, I''m Adith'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: Software Engineer | Cloud Solutions & Machine Learning Specialist
+    text: >+
+
+      I am a seasoned software engineer with a strong focus on cloud
+      architecture and machine learning. At Rheem Manufacturing, I developed
+      scalable data-driven applications, optimizing IoT data processing and
+      creating advanced analytics dashboards. My work at AI4CE Lab, NYU,
+      involves cutting-edge AI research, where I leverage deep learning
+      frameworks like TensorFlow and PyTorch to solve complex problems. With a
+      passion for combining software engineering principles with AI, I aim to
+      deliver innovative solutions that drive business growth and efficiency.
+
     actions:
-      - label: Get started
+      - label: Linkedin
         altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
+        url: www.linkedin.com/in/adith-santosh-0b141a300
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -36,10 +34,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -53,7 +47,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Professional Highlights
       color: text-dark
       styles:
         self:
