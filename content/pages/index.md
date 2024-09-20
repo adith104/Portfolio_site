@@ -82,7 +82,7 @@ sections:
       - type: FeaturedItem
         title: 'National Institute Of Technology,Warangal'
         tagline: ''
-        subtitle: ''
+        subtitle: Bachelor Of Technology-Computer Science
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
