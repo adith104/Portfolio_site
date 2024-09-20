@@ -56,13 +56,6 @@ sections:
     subtitle: Subtitle goes here
     items: []
     actions: []
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
