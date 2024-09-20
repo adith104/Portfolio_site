@@ -154,7 +154,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: ''
       color: text-primary
       styles:
         self:
