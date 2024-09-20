@@ -154,7 +154,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: ''
+      text: ede
       color: text-primary
       styles:
         self:
