@@ -47,6 +47,77 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
+      text: List of features here
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: Featured items section subtitle
+    items:
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: ''
+        subtitle: ''
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Feature Item Two
+        tagline: ''
+        subtitle: ''
+        text: |
+          Follow the tutorial to build your first awesome Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
       text: Professional Highlights
       color: text-dark
       styles:
@@ -56,8 +127,8 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Software Engineer (AI and Cloud)
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -80,7 +151,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/r1.png
           styles:
             self:
               borderRadius: x-large
@@ -132,16 +203,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: Experiences
       color: text-primary
@@ -163,13 +225,13 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Academic Experience
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - title: Feature Item One
         tagline: This is the tagline
