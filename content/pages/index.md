@@ -154,7 +154,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: ede
+      text: Academic Experience
       color: text-primary
       styles:
         self:
