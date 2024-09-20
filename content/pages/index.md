@@ -80,24 +80,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            borderWidth: 0
-      - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
