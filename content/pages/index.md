@@ -104,6 +104,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
+            borderWidth: 8
     actions: []
     elementId: ''
     variant: three-col-grid
