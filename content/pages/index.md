@@ -56,7 +56,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: New York University
         tagline: ''
         subtitle: ''
         text: |
