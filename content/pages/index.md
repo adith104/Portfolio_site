@@ -82,7 +82,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-light-fg-dark
