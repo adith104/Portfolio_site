@@ -57,7 +57,7 @@ sections:
     items:
       - type: FeaturedItem
         title: New York University
-        tagline: Masters
+        tagline: ''
         subtitle: Computer Science
         text: |
           Follow the tutorial to build your first Netlify Create site.
