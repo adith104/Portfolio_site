@@ -56,7 +56,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Cloud Software Engineer
+        title: Software Engineer (AI and Cloud)
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
