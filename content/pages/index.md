@@ -103,6 +103,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            justifyContent: flex-end
     actions: []
     elementId: ''
     variant: three-col-grid
