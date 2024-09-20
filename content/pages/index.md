@@ -48,22 +48,22 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Education
       color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: New York University
         tagline: ''
-        subtitle: ''
+        subtitle: Masters in Computer Science
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/r2.png
           altText: Background alt text
           styles:
             self:
@@ -80,14 +80,14 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: 'National Institute Of Technology,Warangal'
         tagline: ''
-        subtitle: ''
+        subtitle: Bachelor Of Technology-Computer Science
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/r3.jpeg
           altText: Background alt text
           styles:
             self:
@@ -162,7 +162,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /images/r5.jpeg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -187,7 +187,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/r6.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -234,12 +234,12 @@ sections:
     subtitle: ''
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/r4.jpeg
           altText: Placeholder Image
           styles:
             self:
@@ -257,12 +257,12 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Feature Item Two
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/r2.png
           altText: Placeholder image
           styles:
             self:
@@ -280,13 +280,13 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Feature Item Three
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/r3.jpeg
           altText: Placeholder image
           styles:
             self:
