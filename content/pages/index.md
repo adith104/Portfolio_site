@@ -80,7 +80,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: 'National Institute Of Technology,Warangal'
         tagline: ''
         subtitle: ''
         text: |
