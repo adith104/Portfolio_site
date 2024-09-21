@@ -282,7 +282,7 @@ sections:
         type: FeaturedItem
       - title: Course Assistant(ML)
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Sep 2024-Present
         text: >+
           As a course assistant for both graduate (CS-GY 6923) and undergraduate
           (CS-UY 4563) Machine Learning courses, I assist in preparing course
