@@ -305,7 +305,7 @@ sections:
         type: FeaturedItem
       - title: Undergraduate Research Assistant
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Aug 2022-Aug 2023
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
