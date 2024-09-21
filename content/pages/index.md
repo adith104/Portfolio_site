@@ -189,7 +189,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 'ML Engineer Intern '
         subtitle: Faster
         text: >+
           I built a machine learning algorithm to predict optimal cropping
