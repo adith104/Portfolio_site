@@ -283,8 +283,18 @@ sections:
       - title: Feature Item Two
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          As a course assistant for both graduate (CS-GY 6923) and undergraduate
+          (CS-UY 4563) Machine Learning courses, I assist in preparing course
+          materials, grading assignments, and providing support to students
+          during office hours. I collaborate with professors to ensure students
+          grasp key concepts in machine learning, deep learning, and algorithmic
+          problem-solving. Additionally, I help facilitate discussions, explain
+          complex topics, and guide students through hands-on coding exercises
+          and projects.
+
+
+
         image:
           url: /images/r2.png
           altText: Placeholder image
