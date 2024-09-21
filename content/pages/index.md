@@ -164,7 +164,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Software Engineer Intern
-        subtitle: Alpha Data
+        subtitle: Alpha Data May 2022-Aug 2022
         text: >+
           At Alpha Data, I automated manual workflows by developing RPA bots,
           reducing operational effort by 80%. Using Python and UIPath, I
