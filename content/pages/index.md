@@ -130,7 +130,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Software Engineer (AI and Cloud)
-        subtitle: Rheem Manufacturing
+        subtitle: Rheem Manufacturing May 2024-Aug 2024
         text: >+
           At Rheem, I deployed and managed a scalable Elasticsearch and Kibana
           stack on EC2 for visualizing IoT data. I developed REST APIs using
