@@ -306,9 +306,15 @@ sections:
       - title: Undergraduate Research Assistant
         tagline: ''
         subtitle: Aug 2022-Aug 2023
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          As a research assistant, I developed a **review-based group
+          recommender system** using deep learning techniques, including CNN and
+          attention mechanisms. My research aimed to improve recommendation
+          accuracy by leveraging user reviews, focusing on group decision-making
+          dynamics. This work involved extensive experimentation with neural
+          networks, data preprocessing, and model optimization, contributing to
+          advancements in personalized recommendation systems.
+
         image:
           url: /images/r3.jpeg
           altText: Placeholder image
