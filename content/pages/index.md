@@ -424,7 +424,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Adith Santosh
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Personal Portflio-Adith
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
