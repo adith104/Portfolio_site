@@ -161,7 +161,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: ''
         subtitle: The Job Stuff
         text: >+
           At Alpha Data, I automated manual workflows by developing RPA bots,
