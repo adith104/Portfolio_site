@@ -162,7 +162,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Software Engineer Intern
-        subtitle: The Job Stuff
+        subtitle: Alpha Data
         text: >+
           At Alpha Data, I automated manual workflows by developing RPA bots,
           reducing operational effort by 80%. Using Python and UIPath, I
