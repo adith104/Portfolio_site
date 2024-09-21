@@ -192,7 +192,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'ML Engineer Intern '
-        subtitle: Unique World Robotics
+        subtitle: Unique World Robotics May 2021-Aug 2021
         text: >+
           I built a machine learning algorithm to predict optimal cropping
           patterns using real-time sensor data. This system achieved 97%
