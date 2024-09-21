@@ -425,7 +425,7 @@ sections:
 seo:
   metaTitle: Adith Santosh
   metaDescription: Personal Portflio-Adith
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/aa.avif
   type: Seo
   addTitleSuffix: false
 type: PageLayout
