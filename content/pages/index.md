@@ -260,8 +260,15 @@ sections:
       - title: Feature Item One
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          I am contributing to the **OpenFAST software development** on the
+          computer science side, focusing on enhancing simulation capabilities
+          for offshore wind energy systems. My role involves optimizing and
+          integrating computational models to improve the performance of wind
+          turbines in dynamic ocean environments. By working with complex
+          codebases and simulations, I’m helping drive innovations in renewable
+          energy through advanced software solutions.
+
         image:
           url: /images/r4.jpeg
           altText: Placeholder Image
