@@ -128,7 +128,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Software Engineer (AI and Cloud)
-        subtitle: ''
+        subtitle: Rheem
         text: >+
           At Rheem, I deployed and managed a scalable Elasticsearch and Kibana
           stack on EC2 for visualizing IoT data. I developed REST APIs using
