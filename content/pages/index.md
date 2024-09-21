@@ -423,8 +423,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Adith Santosh
+  metaDescription: Personal Portflio-Adith
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
