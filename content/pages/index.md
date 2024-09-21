@@ -129,10 +129,23 @@ sections:
       - type: FeaturedItem
         title: Software Engineer (AI and Cloud)
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Deployed and managed a scalable Elasticsearch and Kibana stack on
+          EC2 for IoT data visualization.
+
+
+          *   *   Integrated AWS S3 and Logstash for real-time data
+          ingestion.*   Developed FastAPI-based REST APIs for querying large
+          datasets, optimizing IoT device insights.*   Spearheaded a project to
+          analyze and predict user flows using AWS Data Lake and Data Dog
+          analytics.
+
+
+
+
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
