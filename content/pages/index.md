@@ -259,7 +259,7 @@ sections:
     items:
       - title: Research Assistant
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Sep 2024- Present
         text: >+
           I am contributing to the **OpenFAST software development** on the
           computer science side, focusing on enhancing simulation capabilities
