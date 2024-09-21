@@ -130,17 +130,10 @@ sections:
         title: Software Engineer (AI and Cloud)
         subtitle: ''
         text: >+
-          *   Deployed and managed a scalable Elasticsearch and Kibana stack on
-          EC2 for IoT data visualization.
-
-
-          *   *   Integrated AWS S3 and Logstash for real-time data
-          ingestion.*   Developed FastAPI-based REST APIs for querying large
-          datasets, optimizing IoT device insights.*   Spearheaded a project to
-          analyze and predict user flows using AWS Data Lake and Data Dog
-          analytics.
-
-
+          At Rheem, I deployed and managed a scalable Elasticsearch and Kibana
+          stack on EC2 for visualizing IoT data. I developed REST APIs using
+          FastAPI for querying large datasets and integrated AWS S3 for
+          real-time data ingestion, optimizing insights for connected devices.
 
 
 
