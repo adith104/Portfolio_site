@@ -257,7 +257,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: Research Assistant
         tagline: ''
         subtitle: This is the item subtitle
         text: >+
