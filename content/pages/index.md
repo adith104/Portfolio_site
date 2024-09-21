@@ -19,16 +19,7 @@ sections:
       passion for combining software engineering principles with AI, I aim to
       deliver innovative solutions that drive business growth and efficiency.
 
-    actions:
-      - label: Linkedin
-        altText: ''
-        url: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/pc.jpg
       altText: Unblock your team boost your time to production preview
