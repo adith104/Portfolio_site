@@ -303,7 +303,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Undergraduate Research Assistant
         tagline: ''
         subtitle: This is the item subtitle
         text: >
