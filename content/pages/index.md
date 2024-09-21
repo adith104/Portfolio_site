@@ -427,5 +427,6 @@ seo:
   metaDescription: Personal Portflio-Adith
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
