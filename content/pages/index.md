@@ -164,11 +164,11 @@ sections:
       - title: 20x
         subtitle: The Job Stuff
         text: >+
+          At Alpha Data, I automated manual workflows by developing RPA bots,
+          reducing operational effort by 80%. Using Python and UIPath, I
+          streamlined repetitive tasks, enhancing productivity by 30%.
 
-          I built a machine learning algorithm to predict optimal cropping
-          patterns using real-time sensor data. This system achieved 97%
-          accuracy, helping farmers make data-driven decisions to improve crop
-          yields.
+
 
         image:
           url: /images/r5.jpeg
