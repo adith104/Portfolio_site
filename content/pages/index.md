@@ -90,8 +90,12 @@ sections:
         title: 'National Institute Of Technology,Warangal'
         tagline: ''
         subtitle: Bachelor Of Technology-Computer Science
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          Graduated as a top student with coursework in **Cloud Computing**,
+          **Data Science**, **Data Mining**, and **Database Management Systems**
+          (DBMS). My bachelor’s thesis focused on developing a **review-based
+          group recommender system** using deep learning techniques.
+
         image:
           type: ImageBlock
           url: /images/r3.jpeg
