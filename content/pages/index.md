@@ -163,10 +163,13 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          I built a machine learning algorithm to predict optimal cropping
+          patterns using real-time sensor data. This system achieved 97%
+          accuracy, helping farmers make data-driven decisions to improve crop
+          yields.
+
         image:
           url: /images/r5.jpeg
           altText: Featured icon two
