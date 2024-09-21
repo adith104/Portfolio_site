@@ -59,8 +59,15 @@ sections:
         title: New York University
         tagline: ''
         subtitle: Masters in Computer Science
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Currently pursuing my MS at NYU with a perfect 4.0 GPA. My coursework
+          includes **Machine Learning**, **Deep Learning**, **Computer Vision**,
+          **Java Programming**, and an elective in **Marketing** from NYU Stern,
+          focusing on advanced technical and business skills for real-world
+          applications.
+
+
+
         image:
           type: ImageBlock
           url: /images/r2.png
