@@ -190,7 +190,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'ML Engineer Intern '
-        subtitle: ''
+        subtitle: Unique World Robotics
         text: >+
           I built a machine learning algorithm to predict optimal cropping
           patterns using real-time sensor data. This system achieved 97%
