@@ -59,8 +59,15 @@ sections:
         title: New York University
         tagline: ''
         subtitle: Masters in Computer Science
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Currently pursuing my MS at NYU with a perfect 4.0 GPA. My coursework
+          includes **Machine Learning**, **Deep Learning**, **Computer Vision**,
+          **Java Programming**, and an elective in **Marketing** from NYU Stern,
+          focusing on advanced technical and business skills for real-world
+          applications.
+
+
+
         image:
           type: ImageBlock
           url: /images/r2.png
@@ -83,8 +90,12 @@ sections:
         title: 'National Institute Of Technology,Warangal'
         tagline: ''
         subtitle: Bachelor Of Technology-Computer Science
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          Graduated as a top student with coursework in **Cloud Computing**,
+          **Data Science**, **Data Mining**, and **Database Management Systems**
+          (DBMS). My bachelor’s thesis focused on developing a **review-based
+          group recommender system** using deep learning techniques.
+
         image:
           type: ImageBlock
           url: /images/r3.jpeg
@@ -128,11 +139,17 @@ sections:
     items:
       - type: FeaturedItem
         title: Software Engineer (AI and Cloud)
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Rheem Manufacturing
+        text: >+
+          At Rheem, I deployed and managed a scalable Elasticsearch and Kibana
+          stack on EC2 for visualizing IoT data. I developed REST APIs using
+          FastAPI for querying large datasets and integrated AWS S3 for
+          real-time data ingestion, optimizing insights for connected devices.
+
+
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -155,12 +172,15 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Software Engineer Intern
+        subtitle: Alpha Data
+        text: >+
+          At Alpha Data, I automated manual workflows by developing RPA bots,
+          reducing operational effort by 80%. Using Python and UIPath, I
+          streamlined repetitive tasks, enhancing productivity by 30%.
+
+
+
         image:
           url: /images/r5.jpeg
           altText: Featured icon two
@@ -180,12 +200,16 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 'ML Engineer Intern '
+        subtitle: Unique World Robotics
+        text: >+
+          I built a machine learning algorithm to predict optimal cropping
+          patterns using real-time sensor data. This system achieved 97%
+          accuracy, helping farmers make data-driven decisions to improve crop
+          yields.
+
+
+
         image:
           url: /images/r6.jpg
           altText: Featured icon three
@@ -233,11 +257,18 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: Research Assistant
         tagline: ''
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        subtitle: Sep 2024- Present
+        text: >+
+          I am contributing to the **OpenFAST software development** on the
+          computer science side, focusing on enhancing simulation capabilities
+          for offshore wind energy systems. My role involves optimizing and
+          integrating computational models to improve the performance of wind
+          turbines in dynamic ocean environments. By working with complex
+          codebases and simulations, I’m helping drive innovations in renewable
+          energy through advanced software solutions.
+
         image:
           url: /images/r4.jpeg
           altText: Placeholder Image
@@ -256,11 +287,21 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Course Assistant(ML)
         tagline: ''
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        subtitle: Sep 2024-Present
+        text: >+
+          As a course assistant for both graduate (CS-GY 6923) and undergraduate
+          (CS-UY 4563) Machine Learning courses, I assist in preparing course
+          materials, grading assignments, and providing support to students
+          during office hours. I collaborate with professors to ensure students
+          grasp key concepts in machine learning, deep learning, and algorithmic
+          problem-solving. Additionally, I help facilitate discussions, explain
+          complex topics, and guide students through hands-on coding exercises
+          and projects.
+
+
+
         image:
           url: /images/r2.png
           altText: Placeholder image
@@ -279,12 +320,18 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Undergraduate Research Assistant
         tagline: ''
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        subtitle: Aug 2022-Aug 2023
+        text: >+
+          As a research assistant, I developed a **review-based group
+          recommender system** using deep learning techniques, including CNN and
+          attention mechanisms. My research aimed to improve recommendation
+          accuracy by leveraging user reviews, focusing on group decision-making
+          dynamics. This work involved extensive experimentation with neural
+          networks, data preprocessing, and model optimization, contributing to
+          advancements in personalized recommendation systems.
+
         image:
           url: /images/r3.jpeg
           altText: Placeholder image
@@ -317,15 +364,15 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >+
+
+      If you're interested in collaborating on cutting-edge technology, or if
+      you just want to say hello, feel free to reach out!
+
     media:
       fields:
         - name: name
@@ -370,7 +417,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contact ME
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
