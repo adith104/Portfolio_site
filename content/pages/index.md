@@ -7,7 +7,7 @@ sections:
       text: 'Hello, I''m Adith'
       color: text-dark
       type: TitleBlock
-    subtitle: Software Engineer | Cloud Solutions & Machine Learning Specialist
+    subtitle: "Software Engineer | Cloud\_ & Machine Learning Specialist"
     text: >+
 
       I am a seasoned software engineer with a strong focus on cloud
