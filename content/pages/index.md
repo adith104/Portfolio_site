@@ -280,7 +280,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Course Assistant(ML)
         tagline: ''
         subtitle: This is the item subtitle
         text: >+
