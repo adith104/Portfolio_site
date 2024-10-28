@@ -194,10 +194,16 @@ sections:
       - title: Software Engineer
         subtitle: Unique World Robotics May 2021-Aug 2023
         text: >+
-          I built a machine learning algorithm to predict optimal cropping
-          patterns using real-time sensor data. This system achieved 97%
-          accuracy, helping farmers make data-driven decisions to improve crop
-          yields.
+          *   *   Built an ML algorithm for crop pattern prediction with 97%
+          accuracy, leveraging PyTorch and TensorFlow with DHT11 sensor data.*  
+          Deployed the solution on AWS EC2 and S3, reducing infrastructure costs
+          by 30%.*   Created RESTful APIs to streamline IoT data flow to cloud
+          storage, increasing solution adaptability.*   Led deployment, reducing
+          resource waste by 25% and enhancing sustainable practices for
+          farmers.*   Collaborated with cross-functional teams to improve model
+          precision and scalability across diverse environments.
+
+
 
 
 
