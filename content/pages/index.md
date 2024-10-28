@@ -191,7 +191,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 'ML Engineer Intern '
+      - title: Software Engineer
         subtitle: Unique World Robotics May 2021-Aug 2021
         text: >+
           I built a machine learning algorithm to predict optimal cropping
