@@ -87,10 +87,14 @@ sections:
         tagline: ''
         subtitle: Bachelor Of Technology-Computer Science
         text: >+
-          Graduated as a top student with coursework in **Cloud Computing**,
-          **Data Science**, **Data Mining**, and **Database Management Systems**
-          (DBMS). My bachelor’s thesis focused on developing a **review-based
-          group recommender system** using deep learning techniques.
+
+          Studied at the National Institute of Technology Warangal—one of
+          India’s highly competitive engineering institutions—where I completed
+          rigorous coursework in **Cloud Computing**, **Data Science**, **Data
+          Mining**, **Distributed Systems**, and **Database Management Systems
+          (DBMS)**. My bachelor’s thesis centered on developing a review-based
+          group recommender system using deep learning techniques, aiming to
+          enhance user recommendations through advanced AI methodologies.
 
         image:
           type: ImageBlock
