@@ -11,13 +11,20 @@ sections:
     text: >+
 
       I am a seasoned software engineer with a strong focus on cloud
-      architecture and machine learning. At Rheem Manufacturing, I developed
-      scalable data-driven applications, optimizing IoT data processing and
-      creating advanced analytics dashboards. My work at AI4CE Lab, NYU,
-      involves cutting-edge AI research, where I leverage deep learning
-      frameworks like TensorFlow and PyTorch to solve complex problems. With a
-      passion for combining software engineering principles with AI, I aim to
-      deliver innovative solutions that drive business growth and efficiency.
+      architecture and machine learning, currently interning as a Cloud Engineer
+      at Rheem Manufacturing. Here, I’ve developed and deployed Python-based
+      RESTful APIs using frameworks like FastAPI and Flask, integrated
+      Elasticsearch for rapid data retrieval, and optimized cloud
+      infrastructure—reducing operational overhead by 30%. Previously, as a
+      Software Engineer at Unique World Robotics, I built scalable API services
+      for real-time crop prediction (achieving 97% model accuracy) and migrated
+      infrastructure to AWS, cutting costs by 30%. I am also pursuing an M.Sc.
+      in Computer Science at New York University (3.97/4.0 GPA) while
+      contributing to cutting-edge AI research at AI4CE Lab, where I leverage
+      deep learning frameworks such as TensorFlow and PyTorch to tackle complex
+      challenges. With a passion for blending software engineering principles
+      and AI, I strive to deliver innovative solutions that drive both business
+      growth and operational efficiency.
 
     actions: []
     media:
