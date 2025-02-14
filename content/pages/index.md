@@ -10,21 +10,17 @@ sections:
     subtitle: "Software Engineer | Cloud\_ & Machine Learning Specialist"
     text: >+
 
-      I am a seasoned software engineer with a strong focus on cloud
-      architecture and machine learning, currently interning as a Cloud Engineer
-      at Rheem Manufacturing. Here, I’ve developed and deployed Python-based
-      RESTful APIs using frameworks like FastAPI and Flask, integrated
-      Elasticsearch for rapid data retrieval, and optimized cloud
-      infrastructure—reducing operational overhead by 30%. Previously, as a
-      Software Engineer at Unique World Robotics, I built scalable API services
-      for real-time crop prediction (achieving 97% model accuracy) and migrated
-      infrastructure to AWS, cutting costs by 30%. I am also pursuing an M.Sc.
-      in Computer Science at New York University (3.97/4.0 GPA) while
-      contributing to cutting-edge AI research at AI4CE Lab, where I leverage
-      deep learning frameworks such as TensorFlow and PyTorch to tackle complex
-      challenges. With a passion for blending software engineering principles
-      and AI, I strive to deliver innovative solutions that drive both business
-      growth and operational efficiency.
+      I am a seasoned software engineer focusing on cloud architecture and
+      machine learning, currently interning as a Cloud Engineer at Rheem
+      Manufacturing. I’ve developed data-driven APIs using FastAPI and Flask,
+      integrated Elasticsearch for rapid retrieval, and cut operational overhead
+      by 30%. Previously at Unique World Robotics, I built real-time crop
+      prediction APIs with 97% accuracy and migrated infrastructure to AWS,
+      reducing costs by 30%. While pursuing an M.Sc. in Computer Science at NYU
+      (3.97/4.0 GPA), I also conduct AI research at AI4CE Lab, leveraging
+      TensorFlow and PyTorch to tackle complex challenges. By blending software
+      engineering and AI, I aim to deliver transformative solutions that drive
+      growth and efficiency.
 
     actions: []
     media:
