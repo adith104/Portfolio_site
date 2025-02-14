@@ -141,14 +141,14 @@ sections:
         title: Software Engineer (AI and Cloud)
         subtitle: Rheem Manufacturing May 2024-Present
         text: >+
-          At Rheem, I deployed and managed a scalable Elasticsearch and Kibana
-          stack on EC2 for visualizing IoT data. I developed REST APIs using
-          FastAPI for querying large datasets and integrated AWS S3 for
-          real-time data ingestion, optimizing insights for connected devices.
 
-
-
-
+          At Rheem Manufacturing, I developed Python-based RESTful APIs using
+          FastAPI—serving over 10,000 daily requests—and implemented a
+          self-managed Elasticsearch stack, boosting data retrieval speed by
+          40%. My contributions were integral to driving projects into
+          production, including real-time analytics pipelines that integrated
+          AWS S3 for large-scale data ingestion and enhanced insights for
+          connected devices.
 
         actions: []
         elementId: null
