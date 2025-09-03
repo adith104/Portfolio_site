@@ -70,7 +70,7 @@ sections:
           fine-tuned, and applied responsibly across real-world domains.
         image:
           type: ImageBlock
-          url: /images/Purdue-University-Logo.jpg
+          url: /images/output-onlinepngtools.png
           altText: Placeholder text
           styles:
             self:
