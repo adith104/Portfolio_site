@@ -173,7 +173,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Software Engineer (AI and Cloud)
+        title: ML Engineer
         subtitle: Rheem Manufacturing May 2024-May 2025
         text: >+
           At **Rheem Manufacturing**, I developed **Python-based RESTful APIs
