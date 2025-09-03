@@ -174,7 +174,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Software Engineer (AI and Cloud)
-        subtitle: Rheem Manufacturing May 2024-Present
+        subtitle: Rheem Manufacturing May 2024-May 2025
         text: >+
           At **Rheem Manufacturing**, I developed **Python-based RESTful APIs
           with FastAPI** handling 10,000+ daily requests and deployed a
