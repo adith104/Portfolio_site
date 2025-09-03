@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Purdue University
-        tagline: ''
+        tagline: PhD in NLP
         subtitle: This is the item subtitle
         text: >
           Specializing in **Natural Language Processing (NLP)** with a focus on
