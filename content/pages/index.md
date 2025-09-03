@@ -9,18 +9,27 @@ sections:
       type: TitleBlock
     subtitle: "Software Engineer | Cloud\_ & Machine Learning Specialist"
     text: >+
+      I am a Ph.D. student in Computer and Information Technology at Purdue
+      University, specializing in Natural Language Understanding (NLU). My
+      research explores bias, fairness, and explainability in large language
+      models, along with practical applications of machine learning in
+      cloud-scale and IoT systems. I completed my M.Sc. in Computer Science at
+      New York University with a 3.97/4.0 GPA, where I conducted research in
+      applied machine learning for wind energy simulations and served as a
+      Teaching Assistant for graduate and undergraduate Machine Learning
+      courses.
 
-      I am a seasoned software engineer focusing on cloud architecture and
-      machine learning, currently interning as a Cloud Engineer at Rheem
-      Manufacturing. I’ve developed data-driven APIs using FastAPI and Flask,
-      integrated Elasticsearch for rapid retrieval, and cut operational overhead
-      by 30%. Previously at Unique World Robotics, I built real-time crop
-      prediction APIs with 97% accuracy and migrated infrastructure to AWS,
-      reducing costs by 30%. While pursuing an M.Sc. in Computer Science at NYU
-      (3.97/4.0 GPA), I also conduct AI research at AI4CE Lab, leveraging
-      TensorFlow and PyTorch to tackle complex challenges. By blending software
-      engineering and AI, I aim to deliver transformative solutions that drive
-      growth and efficiency.
+
+      In industry, I have worked as a Cloud ML Engineer Intern at Rheem
+      Manufacturing, where I architected large-scale data pipelines (AWS S3 →
+      Logstash → Elasticsearch) handling 100M+ daily records, built predictive
+      models for IoT-driven energy optimization, and reduced processing latency
+      by 30%. At Unique World Robotics, I designed precision agriculture ML
+      models with 97% accuracy and deployed cost-efficient real-time APIs on
+      AWS. My work bridges research and engineering, with the goal of creating
+      scalable, transparent, and impactful AI systems.
+
+
 
     actions: []
     media:
