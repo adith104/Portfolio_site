@@ -176,14 +176,15 @@ sections:
         title: Software Engineer (AI and Cloud)
         subtitle: Rheem Manufacturing May 2024-Present
         text: >+
-
-          At Rheem Manufacturing, I developed Python-based RESTful APIs using
-          FastAPI—serving over 10,000 daily requests—and implemented a
-          self-managed Elasticsearch stack, boosting data retrieval speed by
-          40%. My contributions were integral to driving projects into
-          production, including real-time analytics pipelines that integrated
-          AWS S3 for large-scale data ingestion and enhanced insights for
-          connected devices.
+          At **Rheem Manufacturing**, I developed **Python-based RESTful APIs
+          with FastAPI** handling 10,000+ daily requests and deployed a
+          **self-managed Elasticsearch stack**, improving data retrieval speed
+          by 40%. I engineered **real-time analytics pipelines** integrating AWS
+          S3 for large-scale data ingestion and built **ML models for predictive
+          maintenance and energy optimization**, improving anomaly detection
+          accuracy for connected devices. These contributions streamlined
+          large-scale data workflows and supported production deployment of
+          intelligent analytics solutions.
 
         actions: []
         elementId: null
