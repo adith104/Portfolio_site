@@ -91,15 +91,13 @@ sections:
         tagline: ''
         subtitle: Masters in Computer Science
         text: >+
-
-          Currently pursuing an M.Sc. in Computer Science at New York University
-          with a 3.97/4.0 GPA. My coursework spans Machine Learning, Deep
-          Learning, Computer Vision, Operating Systems, and Java Programming,
-          complemented by a Marketing elective at NYU Stern—ensuring a solid mix
-          of advanced technical and business acumen. Alongside my studies, I am
-          interning as a Cloud Engineer, gaining hands-on experience in
-          deploying APIs, optimizing cloud infrastructure, and building
-          scalable, data-driven solutions.
+          Completed advanced coursework in **Machine Learning, Deep Learning,
+          Computer Vision, Operating Systems, and Java Programming**,
+          complemented by a **Marketing elective at NYU Stern** that broadened
+          my perspective on the intersection of technology and business.
+          Alongside my studies, I gained industry experience as a **Cloud
+          Engineer Intern**, where I worked on deploying APIs, optimizing
+          infrastructure, and building scalable, data-driven solutions.
 
         image:
           type: ImageBlock
