@@ -236,7 +236,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Software Engineer
+      - title: ML Engineer
         subtitle: Unique World Robotics May 2021-Aug 2023
         text: >
           Built an ML algorithm for crop pattern prediction with 97% accuracy,
