@@ -62,13 +62,12 @@ sections:
         title: Feature Item One
         tagline: ''
         subtitle: This is the item subtitle
-        text: >+
-          Specializing in **Natural Language Understanding (NLU)** with a focus
-          on **bias, fairness, and explainability in large language models**. My
+        text: >
+          Specializing in **Natural Language Processing (NLP)** with a focus on
+          **bias, fairness, and explainability in large language models**. My
           research aims to develop more transparent, reliable, and trustworthy
           AI systems, exploring how advanced language models can be evaluated,
           fine-tuned, and applied responsibly across real-world domains.
-
         image:
           type: ImageBlock
           url: /images/Purdue-University-Logo.jpg
