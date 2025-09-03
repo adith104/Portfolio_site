@@ -7,7 +7,7 @@ sections:
       text: 'Hello, I''m Adith'
       color: text-dark
       type: TitleBlock
-    subtitle: "Software Engineer | Cloud\_ & Machine Learning Specialist"
+    subtitle: Ph.D. Student | Machine Learning & Cloud Systems
     text: >+
       I am a Ph.D. student in Computer and Information Technology at Purdue
       University, specializing in Natural Language Understanding (NLU). My
