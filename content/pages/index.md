@@ -61,7 +61,7 @@ sections:
       - type: FeaturedItem
         title: Purdue University
         tagline: PhD in NLP
-        subtitle: This is the item subtitle
+        subtitle: PhD in NLP
         text: >
           Specializing in **Natural Language Processing (NLP)** with a focus on
           **bias, fairness, and explainability in large language models**. My
