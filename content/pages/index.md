@@ -216,34 +216,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Software Engineer Intern
-        subtitle: 'Alpha Data Dubai,UAE May 2022-Aug 2022'
-        text: >+
-          At Alpha Data, I automated manual workflows by developing RPA bots,
-          reducing operational effort by 80%. Using Python and UIPath, I
-          streamlined repetitive tasks, enhancing productivity by 30%.
-
-
-
-        image:
-          url: /images/r5.jpeg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: ML Engineer
         subtitle: Unique World Robotics May 2021-Aug 2023
         text: >
