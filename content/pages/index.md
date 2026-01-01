@@ -326,7 +326,7 @@ sections:
           energy through advanced software solutions.
 
         image:
-          url: /images/r4.jpeg
+          url: /images/Purdue-University-Logo.jpg
           altText: Placeholder Image
           styles:
             self:
