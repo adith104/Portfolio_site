@@ -7,7 +7,7 @@ sections:
       text: 'Hello, I''m Adith'
       color: text-dark
       type: TitleBlock
-    subtitle: Ph.D. Student | Machine Learning & Cloud Systems
+    subtitle: Ph.D. Student | NLP & NLU · Machine Learning · Scalable AI Systems
     text: >+
       I am a Ph.D. researcher specializing in **Natural Language Understanding
       (NLU)**, with a focus on **bias, fairness, and explainability in large
