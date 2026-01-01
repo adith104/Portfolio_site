@@ -219,7 +219,7 @@ sections:
       - type: FeaturedItem
         title: Industry Researcher
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: NYU VIP Project
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
