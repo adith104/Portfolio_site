@@ -219,7 +219,7 @@ sections:
       - type: FeaturedItem
         title: Industry Researcher
         tagline: ''
-        subtitle: NYU VIP Project
+        subtitle: Sep 2024-May 2025
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
