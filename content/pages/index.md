@@ -179,7 +179,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ML Engineer
+        title: Machine Learning Engineer
         subtitle: Rheem Manufacturing May 2024-May 2025
         text: >+
           Worked on **production machine learning and data systems** for
