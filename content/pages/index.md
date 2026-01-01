@@ -93,15 +93,15 @@ sections:
         title: New York University
         tagline: ''
         subtitle: Masters in Computer Science
-        text: >+
+        text: >
           Completed advanced coursework in **Machine Learning, Deep Learning,
           Computer Vision, Operating Systems, and Java Programming**,
           complemented by a **Marketing elective at NYU Stern** that broadened
           my perspective on the intersection of technology and business.
-          Alongside my studies, I gained industry experience as a **Cloud
-          Engineer Intern**, where I worked on deploying APIs, optimizing
-          infrastructure, and building scalable, data-driven solutions.
-
+          Alongside my studies, I gained industry experience as a Machine
+          Leanring **Engineer Intern**, where I worked on deploying APIs,
+          optimizing infrastructure, and building scalable, data-driven
+          solutions.
         image:
           type: ImageBlock
           url: /images/r2.png
