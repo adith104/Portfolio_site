@@ -182,15 +182,17 @@ sections:
         title: ML Engineer
         subtitle: Rheem Manufacturing May 2024-May 2025
         text: >+
-          At **Rheem Manufacturing**, I developed **Python-based RESTful APIs
-          with FastAPI** handling 10,000+ daily requests and deployed a
-          **self-managed Elasticsearch stack**, improving data retrieval speed
-          by 40%. I engineered **real-time analytics pipelines** integrating AWS
-          S3 for large-scale data ingestion and built **ML models for predictive
-          maintenance and energy optimization**, improving anomaly detection
-          accuracy for connected devices. These contributions streamlined
-          large-scale data workflows and supported production deployment of
-          intelligent analytics solutions.
+          Worked on **production machine learning and data systems** for
+          large-scale **IoT and energy optimization** platforms. Designed and
+          operated **Elasticsearch-based data pipelines** backed by **AWS (S3,
+          EC2)**, ingesting and indexing **100M+ events per day** to support
+          real-time analytics and ML workflows. Built **data and ML APIs**
+          consumed by downstream services, and developed a **retrieval-augmented
+          generation (RAG) system** integrating LLMs with internal data sources
+          to accelerate engineering insights and debugging. Instrumented
+          pipelines and services using **Datadog** to monitor data quality,
+          latency, and system health, and optimized inference and processing
+          workflows to reduce **end-to-end latency by \~30%**.
 
         actions: []
         elementId: null
