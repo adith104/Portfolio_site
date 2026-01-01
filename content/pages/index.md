@@ -216,7 +216,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ML Engineer
+      - title: Machine Learning Engineer
         subtitle: Unique World Robotics May 2021-Aug 2023
         text: >+
           Developed and deployed **machine learning models for precision
