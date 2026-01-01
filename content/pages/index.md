@@ -317,13 +317,15 @@ sections:
         tagline: ''
         subtitle: Aug 2025- Present
         text: >+
-          I am contributing to the **OpenFAST software development** on the
-          computer science side, focusing on enhancing simulation capabilities
-          for offshore wind energy systems. My role involves optimizing and
-          integrating computational models to improve the performance of wind
-          turbines in dynamic ocean environments. By working with complex
-          codebases and simulations, I’m helping drive innovations in renewable
-          energy through advanced software solutions.
+          Conducting research in **Natural Language Processing (NLP) and Natural
+          Language Understanding (NLU)**, with a focus on **bias, fairness, and
+          explainability in large language models**. My work investigates
+          **evaluation methodologies, interpretability techniques, and
+          responsible adaptation of LLMs**, aiming to improve their
+          **reliability, transparency, and robustness** in real-world
+          applications. This research emphasizes **rigorous experimentation,
+          analysis, and model evaluation**, bridging theoretical insights with
+          applied NLP systems.
 
         image:
           url: /images/Purdue-University-Logo.jpg
