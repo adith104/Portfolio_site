@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Ph.D. Student | NLP & NLU · Machine Learning · Scalable AI Systems
-    text: >+
+    text: >
       I am a Ph.D. researcher specializing in **Natural Language Understanding
       (NLU)**, with a focus on **bias, fairness, and explainability in large
       language models**. My work sits at the intersection of **statistical NLP,
@@ -17,26 +17,23 @@ sections:
       reliable in real-world settings.
 
 
-      I hold an M.Sc. in Computer Science from **New York University** (GPA:
-      3.97/4.0), where I conducted applied ML research in **scientific
-      simulation and time-series modeling** and served as a **Teaching Assistant
-      for graduate and undergraduate Machine Learning courses**. Alongside
-      research, I bring strong industry experience: as a **Cloud ML Engineer
-      Intern at Rheem Manufacturing**, I designed cloud-scale ML pipelines
-      ingesting **100M+ events per day**, built predictive models for
-      **IoT-driven energy optimization**, and optimized production inference
-      systems to reduce latency by **30%**. Previously, at **Unique World
-      Robotics**, I developed **precision-agriculture ML models** achieving
-      **97% accuracy** and deployed real-time, cost-efficient ML APIs on AWS.
+      I hold an M.Sc. in Computer Science from **New York University** , where I
+      conducted applied ML research in **scientific simulation and time-series
+      modeling** and served as a **Teaching Assistant for graduate and
+      undergraduate Machine Learning courses**. Alongside research, I bring
+      strong industry experience: as a **Cloud ML Engineer Intern at Rheem
+      Manufacturing**, I designed cloud-scale ML pipelines ingesting **100M+
+      events per day**, built predictive models for **IoT-driven energy
+      optimization**, and optimized production inference systems to reduce
+      latency by **30%**. Previously, at **Unique World Robotics**, I developed
+      **precision-agriculture ML models** achieving **97% accuracy** and
+      deployed real-time, cost-efficient ML APIs on AWS.
 
 
       My background bridges **ML research and production engineering**, with
       interests in **NLU, LLM evaluation, responsible AI, and scalable ML
       systems**, and a goal of translating rigorous research into impactful,
       deployable AI solutions.
-
-
-
     actions: []
     media:
       url: /images/pc.jpg
