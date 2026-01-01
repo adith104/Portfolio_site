@@ -315,7 +315,7 @@ sections:
     items:
       - title: Research Assistant
         tagline: ''
-        subtitle: Sep 2024- May 2025
+        subtitle: Aug 2025- Present
         text: >+
           I am contributing to the **OpenFAST software development** on the
           computer science side, focusing on enhancing simulation capabilities
