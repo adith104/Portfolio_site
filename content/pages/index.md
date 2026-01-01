@@ -220,8 +220,18 @@ sections:
         title: Industry Researcher
         tagline: ''
         subtitle: Sep 2024-May 2025
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          I contribute to the **OpenFAST** software development on the computer
+          science and **machine learning** side, focusing on enhancing
+          simulation capabilities for **offshore wind energy systems**. My work
+          involves developing and integrating **ML-based surrogate and
+          regression models** alongside physics-based simulations to improve the
+          efficiency and fidelity of wind turbine performance analysis in
+          **dynamic ocean environments**. By combining **data-driven modeling,
+          evaluation, and large-scale simulation codebases**, I help accelerate
+          renewable energy research and enable more scalable, computationally
+          efficient simulation workflows.
+
         image:
           type: ImageBlock
           url: /images/r4.jpeg
