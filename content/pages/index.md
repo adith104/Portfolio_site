@@ -218,7 +218,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: Industry Researcher
-        tagline: This is the tagline
+        tagline: This is the taglin
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
