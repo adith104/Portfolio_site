@@ -218,12 +218,19 @@ sections:
               borderRadius: x-large
       - title: ML Engineer
         subtitle: Unique World Robotics May 2021-Aug 2023
-        text: >
-          Built an ML algorithm for crop pattern prediction with 97% accuracy,
-          leveraging PyTorch and TensorFlow with DHT11 sensor data.  Deployed
-          the solution on AWS EC2 and S3, reducing infrastructure costs by
-          30%.\*   Created RESTful APIs to streamline IoT data flow to cloud
-          storage, increasing solution adaptability.
+        text: >+
+          Developed and deployed **machine learning models for precision
+          agriculture**, using **IoT sensor data (DHT11)** to predict optimal
+          crop patterns and irrigation strategies. Built deep learning models
+          with **PyTorch and TensorFlow**, achieving **97% predictive accuracy**
+          across varying environmental conditions. Deployed the end-to-end
+          solution on **AWS (EC2, S3)**, reducing **infrastructure costs by
+          \~30%**, and designed **RESTful APIs** to streamline IoT data
+          ingestion and cloud integration, improving system scalability and
+          adaptability in production environments.
+
+
+
         image:
           url: /images/r6.jpg
           altText: Featured icon three
