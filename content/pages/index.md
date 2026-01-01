@@ -217,7 +217,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: Feature Item One
+        title: Industry Researcher
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
